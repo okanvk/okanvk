@@ -2,6 +2,8 @@
 
 ## I'm a Developer, Researcher
 
+<img src="https://github-readme-stats.vercel.app/api?username=okanvk&show_icons=true&theme=radical">
+
 
 - 🔭 I’m currently working on natural language processing, web development
 - 🌱 I’m currently learning knowledge graphs
