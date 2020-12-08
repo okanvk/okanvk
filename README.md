@@ -2,9 +2,6 @@
 
 ## I'm a Developer, Researcher
 
-<img src="https://github-readme-stats.vercel.app/api?username=okanvk&show_icons=true&theme=radical">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okanvk&hide=TeX&layout=compact)
 
 
 - 🔭 I’m currently working on natural language processing, web development
